@@ -150,5 +150,5 @@ export const destinationData = [
     longDescription:
       "Amahoro Stadium, Convention in Remera, is Rwanda’s largest sports and event venue. It symbolizes peace and unity, often used for football matches, national ceremonies, and cultural festivals drawing thousands of visitors.",
     image: require("../../assets/d7.jpg"),
-  },
+  }
 ];
