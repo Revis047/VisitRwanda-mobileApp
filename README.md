@@ -5,6 +5,14 @@
 Visit Rwanda is a mobile travel application built with React Native (Expo).
 It helps users explore Rwanda’s top attractions, cultural landmarks, and natural wonders — all from their phone. The app brings together the beauty of the “Land of a Thousand Hills” through immersive visuals, destination details, and a smooth user experience.
 
+
+![WhatsApp Image 2025-10-20 at 01 07 02 (2)](https://github.com/user-attachments/assets/5cae7d23-2a91-487b-9375-af690e2972d9)
+
+![WhatsApp Image 2025-10-20 at 01 07 02 (1)](https://github.com/user-attachments/assets/a357312f-5d28-4920-9a61-2607efc951c9)
+
+![WhatsApp Image 2025-10-20 at 01 07 02](https://github.com/user-attachments/assets/8288ba67-1b0b-4b9e-be40-cb9a30add12c)
+
+
 ✨ Features
 
 🗺️ Explore Destinations – Discover Rwanda’s mountains, national parks, and cultural sites.
